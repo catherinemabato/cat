@@ -320,7 +320,7 @@ msgstr "5K"
 #: ../build/bin/conf_gen.h:1359
 msgctxt "preferences"
 msgid "off"
-msgstr "vyp"
+msgstr "vyp."
 
 #: ../build/bin/conf_gen.h:1360
 msgctxt "preferences"
