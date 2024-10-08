@@ -202,7 +202,7 @@ msgstr "použít některá metadata na všechny nově importované obrázky."
 
 #: ../build/bin/conf_gen.h:998
 msgid "recursive directory"
-msgstr "procházet složku rekursivně"
+msgstr "procházet složku rekurzivně"
 
 #: ../build/bin/conf_gen.h:999
 msgid "recursive directory traversal when importing filmrolls"
