@@ -182,7 +182,7 @@ msgstr "vybrat pouze obrázky, které ještě nebyly importovány"
 
 #: ../build/bin/conf_gen.h:984
 msgid "ignore non-raw images"
-msgstr "ignorovat ne-RAW obrázky"
+msgstr "ignorovat ne-raw obrázky"
 
 #: ../build/bin/conf_gen.h:985
 msgid ""
