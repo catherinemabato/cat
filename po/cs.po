@@ -20182,7 +20182,7 @@ msgstr "prahová hodnota pro aktivaci doostření"
 
 #: ../src/iop/sigmoid.c:195
 msgid "sigmoid"
-msgstr "sigmatu"
+msgstr "sigmoida"
 
 #: ../src/iop/sigmoid.c:200
 msgid "tone mapping|view transform|display transform"
