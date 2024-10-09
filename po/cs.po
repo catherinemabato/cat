@@ -3712,7 +3712,7 @@ msgstr "zachovat stíny"
 #: ../build/lib/darktable/plugins/introspection_denoiseprofile.c:149
 #: ../build/lib/darktable/plugins/introspection_denoiseprofile.c:316
 msgid "bias correction"
-msgstr "korekce zkreslení"
+msgstr "barevná korekce stínů"
 
 #: ../build/lib/darktable/plugins/introspection_denoiseprofile.c:155
 #: ../build/lib/darktable/plugins/introspection_denoiseprofile.c:320
@@ -22945,7 +22945,7 @@ msgstr "opravdu chcete vymazat historii aktuálního obrázku?"
 
 #: ../src/libs/image.c:74
 msgid "actions on selection"
-msgstr "akce na výběru"
+msgstr "akce nad výběrem"
 
 #: ../src/libs/image.c:304
 msgid "delete (trash)"
@@ -22953,11 +22953,11 @@ msgstr "smazat (koš)"
 
 #: ../src/libs/image.c:307
 msgid "physically delete from disk (using trash if possible)"
-msgstr "fyzicky odstranit z disku (pomocí koše, pokud je to možné)"
+msgstr "smazat z disku (vyhodit do koše, je-li to možné)"
 
 #: ../src/libs/image.c:308
 msgid "physically delete from disk immediately"
-msgstr "okamžitě fyzicky odstranit z disku"
+msgstr "definitivně smazat z disku"
 
 #: ../src/libs/image.c:509 ../src/libs/modulegroups.c:3998
 #: ../src/libs/styles.c:925
@@ -22966,7 +22966,7 @@ msgstr "odstranit"
 
 #: ../src/libs/image.c:511
 msgid "remove images from the image library, without deleting"
-msgstr "odstranit obrázky z knihovny obrázků bez odstranění s disku"
+msgstr "odstranit obrázky z knihovny bez odstranění z disku"
 
 #: ../src/libs/image.c:520
 msgid "move..."
@@ -25620,7 +25620,7 @@ msgstr "kontrola rozsahu"
 
 #: ../src/views/darkroom.c:688
 msgid "soft proof"
-msgstr "měkký obtah"
+msgstr "kontrolní náhled"
 
 #. fail :(
 #: ../src/views/darkroom.c:728 ../src/views/print.c:312
@@ -25829,30 +25829,30 @@ msgstr ""
 
 #: ../src/views/darkroom.c:2397
 msgid "softproof"
-msgstr "jemný obrys"
+msgstr "kontrolní náhled"
 
 #: ../src/views/darkroom.c:2400
 msgid ""
 "toggle softproofing\n"
 "right click for profile options"
 msgstr ""
-"přepnout jemný obrys\n"
-"kliknutím pravým tlačítkem zobrazíte možnosti profilu"
+"zapnout kontrolní náhled\n"
+"kliknutím pravým tlačítkem zobrazíte nastavení barevných profilů"
 
 #: ../src/views/darkroom.c:2411
 msgid ""
 "toggle gamut checking\n"
 "right click for profile options"
 msgstr ""
-"přepnout kontrolu rozsahu\n"
-"kliknutím pravým tlačítkem zobrazíte možnosti profilu"
+"zapnout kontrolu gamutu\n"
+"kliknutím pravým tlačítkem zobrazíte nastavení barevných profilů"
 
 #: ../src/views/darkroom.c:2438 ../src/views/darkroom.c:2440
 #: ../src/views/darkroom.c:2454 ../src/views/darkroom.c:2455
 #: ../src/views/darkroom.c:2456 ../src/views/darkroom.c:2457
 #: ../src/views/lighttable.c:1182 ../src/views/lighttable.c:1184
 msgid "profiles"
-msgstr "profily"
+msgstr "barevné profily"
 
 #: ../src/views/darkroom.c:2440 ../src/views/lighttable.c:1184
 msgid "preview intent"
