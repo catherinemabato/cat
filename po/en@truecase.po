@@ -19763,10 +19763,10 @@ msgstr ""
 #, c-format
 msgid ""
 "cannot use image %d as an overlay as it is using the current image as an "
-"overlay, directly or indirectly"
+"overlay itself"
 msgstr ""
 "Cannot use image %d as an overlay as it is using the current image as an "
-"overlay, directly or indirectly"
+"overlay itself"
 
 #: ../src/iop/overlay.c:1105 ../src/iop/watermark.c:1364
 msgctxt "section"
