@@ -1000,7 +1000,7 @@ static void _drag_and_drop_received(GtkWidget *widget,
       {
         dt_control_log
           (_("cannot use image %d as an overlay"
-             " as it is using the current image as an overlay itself"),
+             " as it is using the current image as an overlay, directly or indirectly"),
            imgid);
       }
       else
